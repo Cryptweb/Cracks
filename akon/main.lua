@@ -22,4 +22,4 @@ local old; old = hookfunc(http_request, function(self)
 end)
 
 -- // Main script (DO NOT REMOVE)
-loadstring(game:HttpGet('https://github.com/Cryptweb/Cracks/blob/main/akon/script.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Cryptweb/Cracks/main/akon/script.lua'))() -- // This was not raw
